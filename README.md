@@ -77,7 +77,7 @@ Below are examples of the visualizations generated in this project. your reposit
    ![Total Users by Channel Group](`Total Users by Channel Group.png`)
 
 3. **Average Engagement Time per Session by Channel Group**
-   ![Average Engagement Time per Session by Channel Group](`Average Engagement Time per Session by Channel Group.png`)
+   ![Average Engagement Time per Session by Channel Group](Average Engagement Time per Session by Channel Group.png)
 
 4. **Engaged vs Non-Engaged Sessions by Channel Group**
    ![Engaged vs Non-Engaged Sessions by Channel Group](`Engaged vs Non-Engaged Sessions by Channel Group.png`)
