@@ -71,16 +71,16 @@ The dataset used is a website analytics export in CSV format. It includes key me
 Below are examples of the visualizations generated in this project. your repository and reference them as shown.
 
 1. **Sessions and Users Over Time**
-   ![Sessions vs Users Over Time](`Sessions and Users Over Time.png`)
+   ![Sessions vs Users Over Time](./Sessions%20and%20Users%20Over%20Time.png)
 
 2. **Total Users by Channel Group**
-   ![Total Users by Channel Group](`Total Users by Channel Group.png`)
+   ![Total Users by Channel Group](./Total%20Users%20by%20Channel%20Group.png)
 
 3. **Average Engagement Time per Session by Channel Group**
-   ![Average Engagement Time per Session by Channel Group](Average Engagement Time per Session by Channel Group.png)
+   ![Average Engagement Time per Session by Channel Group](./Average%20Engagement%20Time%20per%20Session%20by%20Channel%20Group.png)
 
 4. **Engaged vs Non-Engaged Sessions by Channel Group**
-   ![Engaged vs Non-Engaged Sessions by Channel Group](`Engaged vs Non-Engaged Sessions by Channel Group.png`)
+   ![Engaged vs Non-Engaged Sessions by Channel Group](./Engaged%20vs%20Non-Engaged%20Sessions%20by%20Channel%20Group.png)
 
 ## 📌 Use Case
 
